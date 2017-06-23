@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#26000000"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="108dp"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:gravity="center_horizontal"
+        android:text="Verify your email address"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="24dp"
+        android:fontFamily="sans-serif"
+        android:textStyle="normal"
+        android:textColor="#ffffff"
+        android:text="We sent verification instructions to you@email.com. Please check your spam folder if you do not see the email in your inbox."
+        />
+    <Button
+        android:id="@+id/btn_continue"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button_background"
+        android:text="Resend email verification"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textColor="@color/white_color"></Button>
+
+</LinearLayout>

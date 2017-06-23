@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ModelMayhem</string> <!--Sign Up page-->
+    <string name="signup_header"> Sign Up </string>
+    <string name="signup_email">Email</string>
+    <string name="signup_email_hint">Email Address</string>
+    <string name="signup_pwd">Password</string>
+    <string name="signup_pwd_hint">Password</string>
+    <string name="signup_btn_txt">Sign Up</string>
+    <string name="signup_face_book">Sign Up with Facebook</string>
+
+    <!--Login page-->
+    <string name="login_header">Login</string>
+    <string name="login_email">Email</string>
+    <string name="login_email_hint">Email Address</string>
+    <string name="login_pwd">Password</string>
+    <string name="login_pwd_hint">Password</string>
+    <string name="login_btn_txt">Login</string>
+    <string name="login_face_book">Login with Facebook</string>
+    <string name="forgot_password">Forgot Password</string>
+
+    <!--Account type-->
+    <string name="account_type_header">I Am a...</string>
+    <string name="account_Indivisual_artist">Individual Artist</string>
+    <string name="account_talent_rectuter">Talent Recruiter</string>
+    <string name="account_btn_talent_rectuter">search and hire Model  Mayhem s leading artists</string>
+    <string name="account_btn_Indivisual_artist">Showcase my protfolio and  build my network</string>
+
+    <!--Artist gender-->
+    <string name="artist_gender_header">I Am A...</string>
+    <string name="artist_gender">Gender</string>
+    <string name="artist_type">Artist Type</string>
+    <string name="artist_btn_continue">Continue</string>
+    <string name="artist_txt_gender">Male</string>
+    <string name="artist_txt_art_type">Model</string>
+
+    <!--Talent Requiter-->
+    <string name="talent_requiter_header">I Am A...</string>
+    <string name="talent_requiter">Talent Requiter</string>
+
+    <!--BirthDay Activity-->
+    <string name="birthday_header">What’s Your Birthday?</string>
+    <string name="birthday_continue">Continue</string>
+
+    <!--Choose User name -->
+    <string name="choose_user_header">Choose Your Username </string>
+    <string name="checking">Checking..... </string>
+    <string name="user_name_available">Username is available. </string>
+    <string name="user_name_not_available">Username is not available.</string>
+
+    <!--Location-->
+    <string name="location_header">Where Are You Located? </string>
+    <!--Company Details-->
+    <string name="choose_company_details">Your Companys Details </string>
+    <!--Your Information-->
+
+    <string name="information_heder">Your Information</string>
+    <string name="information_fname">First name *</string>
+    <string name="information_lname">Last name *</string>
+    <string name="information_ph">Phone no *</string>
+    <string name="information_ad1">Street Address1 </string>
+    <string name="information_ad2">Street Address2  </string>
+    <string name="information_city">City </string>
+    <string name="information_state">State  </string>
+    <string name="information_zip">Zip Code  </string>
+
+    <!--Company Profile-->
+
+    <string name="company_name">Companys  Name</string>
+
+    <!--FAcebook-->
+    <string name="facebook_app_id">253648305113794</string>
+    <string name="fb_login_protocol_scheme">fb253648305113794</string>
+
+    <!--ChooseMembership-->
+    <string name="expand_txt">ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfgghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg ghgf dfgfdng gkfndg  gdjg fgrfg</string>
+
+
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/abc_action_bar_default_height_material">
+
+        <RelativeLayout
+            android:id="@+id/back_relativeLayout"
+            android:layout_width="52dp"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_action_back"
+                android:tint="@color/signup_btn_color" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/header_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="31dp"
+            android:layout_toEndOf="@+id/back_relativeLayout"
+            android:text=" "
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif"
+        android:text="Finish Signing Up"
+        android:textColor="#333333"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:orientation="vertical">
+
+
+
+
+            <TextView
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:padding="5dp"
+                android:text="By signing up, you agree to be bound by our Site Rules, Terms of Use, Privacy Policy, and Cookie Policy. Disclaimer: All casting calls on our site are posted by third parties and not by us. We are not a talent agency and we do not endorse or recommend any agency, company or individual that posts a casting call on our site. We do not verify the legitimacy, accuracy or currency of any casting notice posted on our site. Please refer to Member Safety and Avoiding Scams before deciding to work with any individuals on the site. If you notice any suspicious activity, please report such activity to us immediately at customerservice@modelmayhem.com"
+
+                ></TextView>
+
+
+
+
+
+
+
+
+
+            <Button
+                android:id="@+id/btn_continue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/button_background"
+                android:text="Agree and Create Account"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="@color/white_color"></Button>
+
+
+        </LinearLayout>
+
+
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>

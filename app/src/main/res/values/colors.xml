@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00ACC1</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#0DFFFFFF</color>
+    <color name="splash_color">#1B1B1B</color>
+    <color name="white_color">#ffffff</color>
+    <color name="white_tran_color">#80ffffff</color>
+    <color name="black_color">#000000</color>
+    <color name="signup_btn_color">#00ACC1</color>
+    <color name="login_btn_color">#99ffffff</color>
+    <color name="facebook_btn_color">#3B5998</color>
+    <color name="selected_color">#dedede</color>
+    <color name="selected_pwd">#8b8b8b</color>
+
+
+
+    <color name="red_color">#FF0000</color>
+    <color name="trans_color">#00FF0000</color>
+</resources>
+
